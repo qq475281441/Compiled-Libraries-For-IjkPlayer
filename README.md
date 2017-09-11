@@ -6,5 +6,5 @@ version:k0.8.2
 
 
 
-inssl:为编译了openssl的版本，支持https
-nossl:为没有编译openssl的版本，不支持https
+#inssl:为编译了openssl的版本，支持https的直播地址
+#nossl:为没有编译openssl的版本，不支持https的直播地址
